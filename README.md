@@ -1,1 +1,1 @@
-Moved to https://gitlab.com/selimcan/mes2017 .
+Moved to https://gitlab.com/dlsmnlpak/mes2017 .
